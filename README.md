@@ -8,5 +8,5 @@ For C#:
 
 For python:
     You can access the simple program by navigate to the python folder in terminal and then
-    > python3 .\MorseCodeTranslator.py
+    `python3 .\MorseCodeTranslator.py`
     It is able to convert a message with characters ["A" - "Z"] and ["0" - "9"]
