@@ -16,7 +16,7 @@ namespace Morse_Code_Translator
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new MorseCodeTranslatorUI());
         }
     }
 }

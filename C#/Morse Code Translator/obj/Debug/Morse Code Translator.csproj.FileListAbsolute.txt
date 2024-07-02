@@ -1,0 +1,10 @@
+C:\Users\nhrob\OneDrive\Desktop\Coding\Starter\Morse Code Translator\C#\Morse Code Translator\bin\Debug\Morse Code Translator.exe.config
+C:\Users\nhrob\OneDrive\Desktop\Coding\Starter\Morse Code Translator\C#\Morse Code Translator\bin\Debug\Morse Code Translator.exe
+C:\Users\nhrob\OneDrive\Desktop\Coding\Starter\Morse Code Translator\C#\Morse Code Translator\bin\Debug\Morse Code Translator.pdb
+C:\Users\nhrob\OneDrive\Desktop\Coding\Starter\Morse Code Translator\C#\Morse Code Translator\obj\Debug\Morse Code Translator.csproj.AssemblyReference.cache
+C:\Users\nhrob\OneDrive\Desktop\Coding\Starter\Morse Code Translator\C#\Morse Code Translator\obj\Debug\Morse_Code_Translator.MorseCodeTranslatorUI.resources
+C:\Users\nhrob\OneDrive\Desktop\Coding\Starter\Morse Code Translator\C#\Morse Code Translator\obj\Debug\Morse_Code_Translator.Properties.Resources.resources
+C:\Users\nhrob\OneDrive\Desktop\Coding\Starter\Morse Code Translator\C#\Morse Code Translator\obj\Debug\Morse Code Translator.csproj.GenerateResource.cache
+C:\Users\nhrob\OneDrive\Desktop\Coding\Starter\Morse Code Translator\C#\Morse Code Translator\obj\Debug\Morse Code Translator.csproj.CoreCompileInputs.cache
+C:\Users\nhrob\OneDrive\Desktop\Coding\Starter\Morse Code Translator\C#\Morse Code Translator\obj\Debug\Morse Code Translator.exe
+C:\Users\nhrob\OneDrive\Desktop\Coding\Starter\Morse Code Translator\C#\Morse Code Translator\obj\Debug\Morse Code Translator.pdb
