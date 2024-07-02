@@ -127,7 +127,8 @@ namespace Morse_Code_Translator
             this.Controls.Add(this.morseTextBox);
             this.Controls.Add(this.englishTextBox);
             this.Name = "MorseCodeTranslatorUI";
-            this.Text = "Form1";
+            this.Text = "Morse Code Translator";
+            this.Load += new System.EventHandler(this.MorseCodeTranslatorUI_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

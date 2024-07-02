@@ -108,5 +108,10 @@ namespace Morse_Code_Translator
             string morseText = morseTextBox.Text;
             englishTextBox.Text = ToEnglish(morseText);
         }
+
+        private void MorseCodeTranslatorUI_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
